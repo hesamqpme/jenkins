@@ -1,4 +1,5 @@
 #!/bin/sh
 
-cd ~/jenkins
+pwd
+ls
 cp email email2
