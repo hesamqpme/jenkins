@@ -2,4 +2,4 @@
 
 pwd
 ls
-cp email email2
+cp emails email2
