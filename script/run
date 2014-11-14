@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cd ~/jenkins/
+cd /home/anai/jenkins
 pwd
 ls
 cp emails email2
